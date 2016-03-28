@@ -1,0 +1,18 @@
+
+# Created by https://www.gitignore.io/api/cmake,unrealengine
+
+### CMake ###
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+
+### UnrealEngine ###
+# Binary Files
+UE4 Plugin/*/Binaries
+
+# Compiled source files for the engine to use
+UE4 Plugin/*/Intermediate
